@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-30T12:53:09 IST" name="Suite" finished-at="2024-09-30T12:53:22 IST" duration-ms="13475">
+    <groups>
+    </groups>
+    <test started-at="2024-09-30T12:53:09 IST" name="Test" finished-at="2024-09-30T12:53:22 IST" duration-ms="13475">
+      <class name="Test.TestCompleteTaskPercentage">
+        <test-method is-config="true" signature="beforeTests()[pri:0, instance:Test.TestCompleteTaskPercentage@7722c3c3]" started-at="2024-09-30T12:53:09 IST" name="beforeTests" finished-at="2024-09-30T12:53:10 IST" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTests -->
+        <test-method is-config="true" signature="beforeMethods(java.lang.reflect.Method)[pri:0, instance:Test.TestCompleteTaskPercentage@7722c3c3]" started-at="2024-09-30T12:53:10 IST" name="beforeMethods" finished-at="2024-09-30T12:53:10 IST" duration-ms="15" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void Test.TestCompleteTaskPercentage.isCompeledTaskMoreThan50Percent()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethods -->
+        <test-method signature="isCompeledTaskMoreThan50Percent()[pri:1, instance:Test.TestCompleteTaskPercentage@7722c3c3]" started-at="2024-09-30T12:53:10 IST" name="isCompeledTaskMoreThan50Percent" finished-at="2024-09-30T12:53:21 IST" duration-ms="11185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isCompeledTaskMoreThan50Percent -->
+        <test-method is-config="true" signature="afterMethods(org.testng.ITestResult)[pri:0, instance:Test.TestCompleteTaskPercentage@7722c3c3]" started-at="2024-09-30T12:53:21 IST" name="afterMethods" finished-at="2024-09-30T12:53:21 IST" duration-ms="19" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=isCompeledTaskMoreThan50Percent status=SUCCESS method=TestCompleteTaskPercentage.isCompeledTaskMoreThan50Percent()[pri:1, instance:Test.TestCompleteTaskPercentage@7722c3c3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethods -->
+        <test-method is-config="true" signature="afterTests()[pri:0, instance:Test.TestCompleteTaskPercentage@7722c3c3]" started-at="2024-09-30T12:53:21 IST" name="afterTests" finished-at="2024-09-30T12:53:22 IST" duration-ms="1117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTests -->
+      </class> <!-- Test.TestCompleteTaskPercentage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
