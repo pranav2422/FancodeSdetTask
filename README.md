@@ -1,11 +1,11 @@
-Fancode SDET Assignment
+# Fancode SDET Assignment
 
 
-=> Task: 
+## Task: 
    API automation framework using Rest assured to validate if User Completed task percentage should be greater than 50% based on their Todos.
 
    
-=> About Framework:
+## About Framework:
 
 1. API Automation Framework: Rest Assured
 2. Testing Framework: TestNG
@@ -13,15 +13,15 @@ Fancode SDET Assignment
 4. Report generation: Extentreports
 
 
-=> Steps for setting up and running the project:
+## Steps for setting up and running the project:
 
-* Prerequisites:
+### Prerequisites:
 
 1. Eclips
 2. JDK
 3. TestNG Plugin
 
-* Steps:
+### Steps:
 
 1. Clone the repository on local machine
 2. Open the project in eclips
